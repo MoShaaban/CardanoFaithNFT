@@ -14,3 +14,4 @@ Use cases:
 8- Platform will get a cut of the sale price
 9- An alternative way of minting: Charity creates a campaign to comission Artist/content creator to create a specific number of NFTs as a way to raise fund for the organization
 10- Content creator creates a specific number of Access NFTs that give users access to specific content or direct communication with the content creator
+11- Collector can resell their NFT on the marketplace
